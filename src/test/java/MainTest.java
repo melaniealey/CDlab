@@ -10,6 +10,6 @@ public class MainTest {
 
   @Test
   public void exampleTest() {
-    assertEquals("0", "0");
+    assertEquals("1", "1");
   }
 }
